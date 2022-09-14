@@ -8,4 +8,5 @@ Process progression metrics output for use in the web app
 
 2. Update-TAZ-Outputs-For-Web
 - Run process script first
-- Setup username and password in windows credential manager 
+- For ArcGIS Online, setup username and password in windows credential manager 
+- For File Server, setup username, ip address, and password in windows credential manager
